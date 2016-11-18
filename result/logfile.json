@@ -1,0 +1,399 @@
+{
+    "event": "suiteStart",
+    "suite": "Application Test Suite",
+    "tests": 30
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\Disbursements\\AllTest",
+    "tests": 30
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Disbursements\\AllTest",
+    "test": "MasterCard\\Api\\Disbursements\\AllTest::test_8001_RetrieveAccountInfoWithEligibleAccountInformation"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Disbursements\\AllTest",
+    "test": "MasterCard\\Api\\Disbursements\\AllTest::test_8001_RetrieveAccountInfoWithEligibleAccountInformation",
+    "status": "pass",
+    "time": 0.43899297714233,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Disbursements\\AllTest",
+    "test": "MasterCard\\Api\\Disbursements\\AllTest::test_8002_RetrieveAccountInfoWithIneligibleAccountInformation"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Disbursements\\AllTest",
+    "test": "MasterCard\\Api\\Disbursements\\AllTest::test_8002_RetrieveAccountInfoWithIneligibleAccountInformation",
+    "status": "pass",
+    "time": 0.29319405555725,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Disbursements\\AllTest",
+    "test": "MasterCard\\Api\\Disbursements\\AllTest::test_10001_RetrieveAccountStatusWithNonTokenizedRequest"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Disbursements\\AllTest",
+    "test": "MasterCard\\Api\\Disbursements\\AllTest::test_10001_RetrieveAccountStatusWithNonTokenizedRequest",
+    "status": "pass",
+    "time": 0.42038011550903,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Disbursements\\AllTest",
+    "test": "MasterCard\\Api\\Disbursements\\AllTest::test_19001_RegisterConsumer"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Disbursements\\AllTest",
+    "test": "MasterCard\\Api\\Disbursements\\AllTest::test_19001_RegisterConsumer",
+    "status": "pass",
+    "time": 0.30812501907349,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Disbursements\\AllTest",
+    "test": "MasterCard\\Api\\Disbursements\\AllTest::test_20001_RetrieveConsumer"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Disbursements\\AllTest",
+    "test": "MasterCard\\Api\\Disbursements\\AllTest::test_20001_RetrieveConsumer",
+    "status": "pass",
+    "time": 0.28413105010986,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Disbursements\\AllTest",
+    "test": "MasterCard\\Api\\Disbursements\\AllTest::test_20040_AddConsumerContactId"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Disbursements\\AllTest",
+    "test": "MasterCard\\Api\\Disbursements\\AllTest::test_20040_AddConsumerContactId",
+    "status": "pass",
+    "time": 0.3213369846344,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Disbursements\\AllTest",
+    "test": "MasterCard\\Api\\Disbursements\\AllTest::test_21001_SearchConsumer_ConsumerReference"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Disbursements\\AllTest",
+    "test": "MasterCard\\Api\\Disbursements\\AllTest::test_21001_SearchConsumer_ConsumerReference",
+    "status": "pass",
+    "time": 0.30424904823303,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Disbursements\\AllTest",
+    "test": "MasterCard\\Api\\Disbursements\\AllTest::test_21002_SearchConsumer_Contact_ID_URI"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Disbursements\\AllTest",
+    "test": "MasterCard\\Api\\Disbursements\\AllTest::test_21002_SearchConsumer_Contact_ID_URI",
+    "status": "pass",
+    "time": 0.30460500717163,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Disbursements\\AllTest",
+    "test": "MasterCard\\Api\\Disbursements\\AllTest::test_22001_SearchConsumers_ConsumerReference"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Disbursements\\AllTest",
+    "test": "MasterCard\\Api\\Disbursements\\AllTest::test_22001_SearchConsumers_ConsumerReference",
+    "status": "pass",
+    "time": 0.30110502243042,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Disbursements\\AllTest",
+    "test": "MasterCard\\Api\\Disbursements\\AllTest::test_22002_SearchConsumers_Contact_ID_URI"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Disbursements\\AllTest",
+    "test": "MasterCard\\Api\\Disbursements\\AllTest::test_22002_SearchConsumers_Contact_ID_URI",
+    "status": "pass",
+    "time": 0.28217101097107,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Disbursements\\AllTest",
+    "test": "MasterCard\\Api\\Disbursements\\AllTest::test_25002_AddConsumerAccountForDisb"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Disbursements\\AllTest",
+    "test": "MasterCard\\Api\\Disbursements\\AllTest::test_25002_AddConsumerAccountForDisb",
+    "status": "pass",
+    "time": 0.35315608978271,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Disbursements\\AllTest",
+    "test": "MasterCard\\Api\\Disbursements\\AllTest::test_30001_AddConsumerAccount"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Disbursements\\AllTest",
+    "test": "MasterCard\\Api\\Disbursements\\AllTest::test_30001_AddConsumerAccount",
+    "status": "pass",
+    "time": 0.32680010795593,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Disbursements\\AllTest",
+    "test": "MasterCard\\Api\\Disbursements\\AllTest::test_30002_RetrieveAccountStatusWithTokenizedRequest"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Disbursements\\AllTest",
+    "test": "MasterCard\\Api\\Disbursements\\AllTest::test_30002_RetrieveAccountStatusWithTokenizedRequest",
+    "status": "pass",
+    "time": 0.42094993591309,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Disbursements\\AllTest",
+    "test": "MasterCard\\Api\\Disbursements\\AllTest::test_31001_RetrieveConsumerAccount"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Disbursements\\AllTest",
+    "test": "MasterCard\\Api\\Disbursements\\AllTest::test_31001_RetrieveConsumerAccount",
+    "status": "pass",
+    "time": 0.28927183151245,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Disbursements\\AllTest",
+    "test": "MasterCard\\Api\\Disbursements\\AllTest::test_32001_RetrieveConsumerAccounts"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Disbursements\\AllTest",
+    "test": "MasterCard\\Api\\Disbursements\\AllTest::test_32001_RetrieveConsumerAccounts",
+    "status": "pass",
+    "time": 0.29505205154419,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Disbursements\\AllTest",
+    "test": "MasterCard\\Api\\Disbursements\\AllTest::test_32541_SendDisbursementWithNonTokenizedTransaction"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Disbursements\\AllTest",
+    "test": "MasterCard\\Api\\Disbursements\\AllTest::test_32541_SendDisbursementWithNonTokenizedTransaction",
+    "status": "pass",
+    "time": 0.50859093666077,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Disbursements\\AllTest",
+    "test": "MasterCard\\Api\\Disbursements\\AllTest::test_32542_SendDisbursementWithTokenizedTransaction"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Disbursements\\AllTest",
+    "test": "MasterCard\\Api\\Disbursements\\AllTest::test_32542_SendDisbursementWithTokenizedTransaction",
+    "status": "pass",
+    "time": 0.48672890663147,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Disbursements\\AllTest",
+    "test": "MasterCard\\Api\\Disbursements\\AllTest::test_32550_RetrieveDisbursement"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Disbursements\\AllTest",
+    "test": "MasterCard\\Api\\Disbursements\\AllTest::test_32550_RetrieveDisbursement",
+    "status": "pass",
+    "time": 0.312912940979,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Disbursements\\AllTest",
+    "test": "MasterCard\\Api\\Disbursements\\AllTest::test_32560_RetrieveDisbursementByRef"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Disbursements\\AllTest",
+    "test": "MasterCard\\Api\\Disbursements\\AllTest::test_32560_RetrieveDisbursementByRef",
+    "status": "pass",
+    "time": 0.28208589553833,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Disbursements\\AllTest",
+    "test": "MasterCard\\Api\\Disbursements\\AllTest::test_33003_SanctionScreening_NonTokenized"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Disbursements\\AllTest",
+    "test": "MasterCard\\Api\\Disbursements\\AllTest::test_33003_SanctionScreening_NonTokenized",
+    "status": "pass",
+    "time": 0.27569603919983,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Disbursements\\AllTest",
+    "test": "MasterCard\\Api\\Disbursements\\AllTest::test_33004_SanctionScreeningBy_Tokenized_ConsumerId"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Disbursements\\AllTest",
+    "test": "MasterCard\\Api\\Disbursements\\AllTest::test_33004_SanctionScreeningBy_Tokenized_ConsumerId",
+    "status": "pass",
+    "time": 0.28677296638489,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Disbursements\\AllTest",
+    "test": "MasterCard\\Api\\Disbursements\\AllTest::test_33005_SanctionScreening_Tokenized_ConsumerReference"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Disbursements\\AllTest",
+    "test": "MasterCard\\Api\\Disbursements\\AllTest::test_33005_SanctionScreening_Tokenized_ConsumerReference",
+    "status": "pass",
+    "time": 0.31418514251709,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Disbursements\\AllTest",
+    "test": "MasterCard\\Api\\Disbursements\\AllTest::test_41001_RetrieveConsumerContactId"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Disbursements\\AllTest",
+    "test": "MasterCard\\Api\\Disbursements\\AllTest::test_41001_RetrieveConsumerContactId",
+    "status": "pass",
+    "time": 0.30246806144714,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Disbursements\\AllTest",
+    "test": "MasterCard\\Api\\Disbursements\\AllTest::test_42001_RetrieveConsumerContacts"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Disbursements\\AllTest",
+    "test": "MasterCard\\Api\\Disbursements\\AllTest::test_42001_RetrieveConsumerContacts",
+    "status": "pass",
+    "time": 0.28643703460693,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Disbursements\\AllTest",
+    "test": "MasterCard\\Api\\Disbursements\\AllTest::test_50033_UpdateConsumerAccount"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Disbursements\\AllTest",
+    "test": "MasterCard\\Api\\Disbursements\\AllTest::test_50033_UpdateConsumerAccount",
+    "status": "pass",
+    "time": 0.33351016044617,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Disbursements\\AllTest",
+    "test": "MasterCard\\Api\\Disbursements\\AllTest::test_50043_UpdateConsumerContactId"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Disbursements\\AllTest",
+    "test": "MasterCard\\Api\\Disbursements\\AllTest::test_50043_UpdateConsumerContactId",
+    "status": "pass",
+    "time": 0.45469188690186,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Disbursements\\AllTest",
+    "test": "MasterCard\\Api\\Disbursements\\AllTest::test_50134_DeleteConsumerAccount"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Disbursements\\AllTest",
+    "test": "MasterCard\\Api\\Disbursements\\AllTest::test_50134_DeleteConsumerAccount",
+    "status": "pass",
+    "time": 0.29520797729492,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Disbursements\\AllTest",
+    "test": "MasterCard\\Api\\Disbursements\\AllTest::test_50144_DeleteConsumerContactId"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Disbursements\\AllTest",
+    "test": "MasterCard\\Api\\Disbursements\\AllTest::test_50144_DeleteConsumerContactId",
+    "status": "pass",
+    "time": 0.27366399765015,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Disbursements\\AllTest",
+    "test": "MasterCard\\Api\\Disbursements\\AllTest::test_60023_UpdateConsumer"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Disbursements\\AllTest",
+    "test": "MasterCard\\Api\\Disbursements\\AllTest::test_60023_UpdateConsumer",
+    "status": "pass",
+    "time": 0.2974259853363,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Disbursements\\AllTest",
+    "test": "MasterCard\\Api\\Disbursements\\AllTest::test_60024_DeleteConsumer"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Disbursements\\AllTest",
+    "test": "MasterCard\\Api\\Disbursements\\AllTest::test_60024_DeleteConsumer",
+    "status": "pass",
+    "time": 0.30352687835693,
+    "trace": [],
+    "message": "",
+    "output": ""
+}
