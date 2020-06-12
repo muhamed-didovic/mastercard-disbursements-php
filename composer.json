@@ -28,5 +28,7 @@
     },
     "archive": {
         "exclude": ["/result", "/*.p12", ".gitignore", "allfiles.tar"]
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
